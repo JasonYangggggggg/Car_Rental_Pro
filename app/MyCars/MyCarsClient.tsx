@@ -7,9 +7,9 @@ import { useCallback, useState } from "react";
 import axios from "axios";
 import toast from "react-hot-toast";
 import ListingCard from "../components/listings/ListingCard";
-
+import { Listing } from "@prisma/client";
 interface MyCarsClientProps{
-    Cars: SafeListing[];
+    Cars: Listing[];
     currentUser?: SafeUser | null;
 }
 const MyCarsClient:React.FC<MyCarsClientProps> = ({
