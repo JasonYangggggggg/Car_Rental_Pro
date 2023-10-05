@@ -20,7 +20,8 @@ Click the following icon:
 ![image](https://github.com/JasonYangggggggg/Car_Rental_Pro/assets/109561939/3b510e9c-4f5c-4b7a-92da-dd54f8f4cc51)
 
 Then follow the steps:
-![image](https://github.com/JasonYangggggggg/Car_Rental_Pro/assets/109561939/441217fe-23e1-4bb1-a07c-25241d90f352)
+![image](https://github.com/JasonYangggggggg/Car_Rental_Pro/assets/109561939/1a4a1a9c-a778-4658-ae53-4ac3e84acae5)
+
 
 Then your posting will be shown on the main page and your posted car (My car) page!
 
